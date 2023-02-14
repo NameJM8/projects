@@ -1,0 +1,10 @@
+.nav{
+    margin: 0;
+    list-style-type: none ;
+}
+@font-face {
+    src: url(/general/fonts/NunitoSans-Regular.ttf); format:'ttf';
+    font-family:'Nunito Sans', sans-serif;
+    font-weight:400;
+    font-size:11;
+}

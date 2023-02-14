@@ -1,0 +1,12 @@
+.body{
+    max-width:1440px;
+    margin:0 auto;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+}
